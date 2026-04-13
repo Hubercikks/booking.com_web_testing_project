@@ -1,4 +1,4 @@
-# 🧪 Test Plan – Booking.com Search Engine
+# Test Plan – Booking.com Search Engine
 
 ## 1. Wstęp
 
@@ -10,12 +10,12 @@ Niniejszy dokument zawiera kluczowe informacje dotyczące procesu testowania, w 
 
 ## 2. Zakres testów
 
-### ✅ Realizowane typy testów:
+### Realizowane typy testów:
 
 * Testy funkcjonalne
 * Testy wydajnościowe
 
-### ❌ Testy poza zakresem:
+### Testy poza zakresem:
 
 * Testy jednostkowe (realizowane przez developerów)
 * Testy automatyczne – brak budżetu na automatyzację
@@ -37,13 +37,13 @@ Wyszukiwarka umożliwia użytkownikowi wyszukiwanie obiektów noclegowych na pod
 
 ## 4. Kryteria zaliczenia / niezaliczenia
 
-### ✅ Kryteria zaliczenia:
+### Kryteria zaliczenia:
 
 * Minimum 95% przypadków testowych zakończonych statusem **PASS**
 * Brak błędów krytycznych (Critical/Blocker)
 * Czas odpowiedzi serwera nie przekracza 700 ms
 
-### ❌ Kryteria niezaliczenia:
+### Kryteria niezaliczenia:
 
 * Występowanie błędów krytycznych
 * Niespełnienie wymagań funkcjonalnych
@@ -53,13 +53,13 @@ Wyszukiwarka umożliwia użytkownikowi wyszukiwanie obiektów noclegowych na pod
 
 ## 5. Kryteria wejścia / wyjścia
 
-### ▶️ Kryteria wejścia:
+### Kryteria wejścia:
 
 * Zakończona implementacja wyszukiwarki
 * Dostępne i skonfigurowane środowisko testowe
 * Dostęp do maszyny testowej
 
-### ⏹️ Kryteria wyjścia:
+### Kryteria wyjścia:
 
 * Wszystkie testy zostały wykonane
 * Brak błędów krytycznych
@@ -92,13 +92,13 @@ Wyszukiwarka umożliwia użytkownikowi wyszukiwanie obiektów noclegowych na pod
 
 ## 8. Harmonogram testów
 
-### 🧩 Testy funkcjonalne:
+### Testy funkcjonalne:
 
 * Analiza wymagań i user stories – 1 dzień
 * Wykonanie przypadków testowych – 1–2 dni
 * Retesty i weryfikacja poprawek – 1 dzień
 
-### ⚡ Testy wydajnościowe:
+### Testy wydajnościowe:
 
 * Pomiar średniego czasu odpowiedzi
 * Weryfikacja maksymalnego obciążenia systemu
@@ -133,7 +133,7 @@ Każdy defekt zawiera:
 * opis problemu
 * komponent
 
-### 🔄 Proces:
+### Proces:
 
 1. Zgłoszenie błędu
 2. Naprawa przez developera
